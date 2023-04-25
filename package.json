@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-net-ninja",
+  "version": "1.0.0",
+  "description": "This repository contains all that i have learnt so far in Bootstrap. The directory \"Bootstrap5\" contains an eBook website that i coded along from the NetNinja bootstrap tutorial, while the other \"Bootstrap5 Notes\" contains all the notes, little practices i did for each topic in the tutorial, it was fun all along using Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/abdulmex/Bootstrap-Net-Ninja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulmex/Bootstrap-Net-Ninja/issues"
+  },
+  "homepage": "https://github.com/abdulmex/Bootstrap-Net-Ninja#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
